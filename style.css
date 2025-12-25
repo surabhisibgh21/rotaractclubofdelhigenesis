@@ -1,8 +1,9 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Montserrat, sans-serif;
   background-color: #ffffff;
   color: #333;
+  
 }
 
 /* Navbar */
@@ -79,4 +80,5 @@ footer {
   from { transform: translateY(40px); opacity: 0; }
   to { transform: translateY(0); opacity: 1; }
 }
+
 
